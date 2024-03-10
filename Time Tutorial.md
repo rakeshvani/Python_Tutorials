@@ -39,4 +39,4 @@ As you can see, the function `time.strftime()` formats the current time (obtaine
 
 ## Conclusion
 The `time` module in Python provides a set of functions to work with time-related operations, such as timekeeping, formatting, and `time` conversions. Whether you are writing a script, a library, or an application, the `time` module is a powerful tool that can help you perform time-related tasks with ease and efficiency. So, if you haven't already, be sure to check out the time module in Python and see how it can help you write better, more efficient code.
-## [Next Lesson>>](https://replit.com/@codewithharry/85-Day-85-Command-Line-Utility)
+
