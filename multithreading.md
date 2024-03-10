@@ -82,4 +82,3 @@ if __name__ == '__main__':
 As you can see, the threading module provides a simple and efficient way to implement multithreading in Python. Whether you need to create a new thread, run a function across multiple input values, or synchronize access to shared resources, the threading module has you covered.
 
 In conclusion, the threading module is a powerful tool for parallelizing code in Python. Whether you are a beginner or an experienced Python developer, the threading module is an essential tool to have in your toolbox. With multithreading, you can take advantage of multiple CPU cores and significantly improve the performance of your code.
-## [Next Lesson>>](https://replit.com/@codewithharry/98-Day-98-MultiProcessing-in-Python)
