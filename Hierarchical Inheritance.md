@@ -53,7 +53,7 @@ Color: Black
 As we can see from the outputs, the `Dog` and `Cat` classes have inherited the attributes and methods of the `Animal` class, and have also added their own unique attributes and methods.
 
 In conclusion, hierarchical inheritance is a way of establishing relationships between classes in a hierarchical manner. It allows multiple subclasses to inherit from a single base class, which helps in code reuse and organization of code in a more structured manner.
-## [Next Lesson>>](https://replit.com/@codewithharry/82-Day-82-Exercise-8-Solution)
+
 
 
 
