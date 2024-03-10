@@ -38,4 +38,3 @@ class Dog(Animal, Mammal):
         print("Bark!")
 ```
 In this example, the `Dog` class inherits from both the `Animal` and `Mammal` classes, so it can use attributes and methods from both parent classes.
-## [Next Lesson>>](https://replit.com/@codewithharry/80-Day-80-Multilevel-Inheritance)
