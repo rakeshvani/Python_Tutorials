@@ -88,5 +88,3 @@ print(info)
 #### Output:
 ```
 NameError: name 'info' is not defined
-```
-## [Next Lesson>>](https://replit.com/@codewithharry/35-Day-35-For-loop-with-else)
