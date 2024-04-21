@@ -47,5 +47,3 @@ for character in name:
 ```
 
 Above code prints all the characters in the string name one by one!
-
-## [Next Lesson>>](https://replit.com/@codewithharry/12-Day12-Strings-Slicing#main.py)
