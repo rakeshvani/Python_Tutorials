@@ -24,13 +24,3 @@ print(obj._funName())
 # calling by object of Subject class
 print(obj1._name)    
 print(obj1._funName()) 
-```
-## Output:
-```
-Harry
-CodeWithHarry
-
-Harry
-CodeWithHarry
-```
-## [Next Lesson>>](https://replit.com/@codewithharry/63-Day-63-Exercise-5-Solution)
