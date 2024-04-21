@@ -22,4 +22,3 @@ obj1.desc()
 ```
 My name is Rohan and I'm 20 years old.
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/58-Day58-Constructors)
