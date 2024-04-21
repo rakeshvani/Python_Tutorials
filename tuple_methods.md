@@ -32,4 +32,3 @@ print('First occurrence of 3 is', res)
 ```
 #### Output
 3
-## [Next Lesson>>](https://replit.com/@codewithharry/26-Day-26-Exercise-2-Solution)
