@@ -45,4 +45,3 @@ obj1=Details()
 ```
 animal Crab belongs to Crustaceans group
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/59-Day-59-Decorators-in-Python)
