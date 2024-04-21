@@ -9,11 +9,7 @@ class Person:
     print(f"{self.name} is a {self.occ}")
 
 
-a = Person("Harry", "Developer")
+a = Person("ranjan", "Developer")
 b = Person("Divya", "HR") 
 a.info()
 b.info()
-# print(a.name)
-# a.name = "Divya"
-# a.occ = "HR"
-# a.info()
