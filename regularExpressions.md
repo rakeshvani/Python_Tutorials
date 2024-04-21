@@ -92,4 +92,3 @@ if match:
 ```
 ## Conclusion
 Regular expressions are a powerful tool for working with strings and text data in Python. Whether you're matching patterns, replacing text, or extracting information, regular expressions make it easy to perform complex string operations with just a few lines of code. With a little bit of practice, you'll be able to use regular expressions to solve all sorts of string-related problems in Python.
-## [Next Lesson>>](https://replit.com/@codewithharry/96-Day-96-AsyncIO-in-Python)
