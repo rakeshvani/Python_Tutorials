@@ -8,7 +8,7 @@ class Student:
         self.age = age               # public variable
         self.name = name             # public variable
 
-obj = Student(21,"Harry")
+obj = Student(21,"virat")
 print(obj.age)
 print(obj.name)
 ```
