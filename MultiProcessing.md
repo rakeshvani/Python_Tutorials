@@ -97,4 +97,3 @@ if __name__ == '__main__':
 As you can see, the multiprocessing module provides a simple and efficient way to run multiple processes in parallel. Whether you need to create a new process, run a function across multiple input values, communicate data between processes, or synchronize access to shared resources, the multiprocessing module has you covered.
 
 In conclusion, the multiprocessing module is a powerful tool for parallelizing code in Python. Whether you are a beginner or an experienced Python developer, the multiprocessing module is an essential tool to have in your toolbox.
-## [Next Lesson>>](https://replit.com/@codewithharry/99-Day-99-Exercise-11-Solution)
