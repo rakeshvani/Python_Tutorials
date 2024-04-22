@@ -37,4 +37,3 @@ The Dog class inherits all the attributes and behaviors of the Animal class, inc
 
 
 Single inheritance is a powerful tool in Python that allows you to create new classes based on existing classes. It allows you to reuse code, extend it to fit your needs, and make it easier to manage complex systems. Understanding single inheritance is an important step in becoming proficient in object-oriented programming in Python.
-## [Next Lesson>>](https://replit.com/@codewithharry/79-Day-79-Multiple-Inheritance)
