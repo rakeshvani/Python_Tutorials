@@ -44,4 +44,3 @@ We can use setter method like this:
 20
 ```
 In conclusion, getters are a convenient way to access the values of an object's properties, while keeping the internal representation of the property hidden. This can be useful for encapsulation and data validation.
-## [Next Lesson>>](https://replit.com/@codewithharry/61-Day-61-Inheritance-in-Python)
