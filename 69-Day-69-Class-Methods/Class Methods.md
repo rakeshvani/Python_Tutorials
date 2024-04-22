@@ -28,4 +28,3 @@ It's important to note that class methods cannot modify the class in any way. If
 ## Conclusion
 
 Python class methods are a powerful tool for defining functions that operate on the class as a whole, rather than on a specific instance of the class. They are useful for creating factory methods, alternative constructors, and other types of methods that operate at the class level. With the knowledge of how to define and use class methods, you can start writing more complex and organized code in Python.
-## [Next Lesson>>](https://replit.com/@codewithharry/70-Day-70-Class-methods-as-alternative-constructors)
