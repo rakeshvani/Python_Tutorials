@@ -49,4 +49,3 @@ class str(object)
  |  errors defaults to 'strict'.
    ```
 In conclusion, dir(), __dict__, and help() are useful built-in functions in Python that can be used to get information about objects. They are valuable tools for introspection and discovery.
-## [Next Lesson>>](https://replit.com/@codewithharry/72-Day-72-super-Keyword)
