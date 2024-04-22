@@ -1,9 +1,9 @@
 class Student:
     def __init__(self):
-        self._name = "Harry"
+        self._name = "ranjan"
 
     def _funName(self):      # protected method
-        return "CodeWithHarry"
+        return "C2H3CL"
 
 class Subject(Student):       #inherited class
     pass
