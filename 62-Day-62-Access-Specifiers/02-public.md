@@ -8,12 +8,12 @@ class Student:
         self.age = age               # public variable
         self.name = name             # public variable
 
-obj = Student(21,"Harry")
+obj = Student(25,"ranjan")
 print(obj.age)
 print(obj.name)
 ```
 ## Output:
 ```
-21
-Harry
+25
+ranjan
 ```
